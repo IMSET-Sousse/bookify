@@ -48,7 +48,7 @@ h2.section-title, h3 {
 }
 
 .accordion-button::after {
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'inria serif';
     font-weight: 900;
     content: "\f078"; /* Chevron Down */
     font-size: 1.5rem;
